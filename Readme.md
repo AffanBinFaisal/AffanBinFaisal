@@ -34,6 +34,8 @@ I build **scalable AI applications** that combine **LLMs, autonomous agents, RAG
 | **Drone Detection using YOLOv11** | Fine-tuned a YOLOv11-nano model on custom drone dataset for real-time detection | Python, PyTorch, Ultralytics, Object Detection |
 | **AVATARé AI Agents** | Built a platform for orchestrating organizational AI agents | Python, LangChain, RAG, Agent Orchestration |
 | **AVATARé Land Banker** | Developed backend for land bankers & developers collaboration platform | Python, FastAPI, Vector Databases |
+| **Custom n8n NexorOne Node** | Developed a custom n8n integration node for the NexorOne API, an internal payment processing platform used by AVATARé for workflow automation and transaction orchestration | TypeScript, n8n, REST APIs, Automation, Backend Development |
+| **SettledIQ Autoglass** | Built and contributed to a platform connecting customers, autoglass shops, and insurance advocates, streamlining claim management and operational workflows | FastAPI, Python, MySQL, Backend Systems, API Development |
 | **Time-Series Forecasting Experiments** | Worked on multiple datasets for stock price & sensor data prediction using classical & neural models | Python, scikit-learn, LSTM, Prophet, ML |
 | **ML Ops / Deployment Pipelines** | Deployed ML models in production with FastAPI, Docker, and vector database integration | Python, FastAPI, Docker, Vector DBs, ML Ops |
 
